@@ -28,8 +28,8 @@ Step-by-Step Installation
 1. Download the Repository
 Clone the repo or click Code → Download ZIP and extract it to a clean folder (for example, `C:\KrakenDashboard`):
 ```powershell
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Bodee2550/DesktopKraken.git
+cd DesktopKraken
 ```
 2. Install Python Dependencies
 Open PowerShell as Administrator inside the project folder and run:
